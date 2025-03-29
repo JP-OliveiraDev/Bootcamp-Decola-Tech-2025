@@ -13,7 +13,7 @@ Aqui você encontrará projetos construídos utilizando frameworks como !**Angul
 
 🔹 Tecnologias: Angular, TypeScript, CSS, HTML
 
-🔹 📂 Repositório: DevSphere
+🔹 📂 Repositório: [DevSphere](https://github.com/JP-OliveiraDev/Blog)
 
 ---
 
@@ -25,13 +25,13 @@ Aqui você encontrará projetos construídos utilizando frameworks como !**Angul
 
 🔹 Tecnologias: Angular, Angular Material, Bootstrap, RxJS
 
-🔹 📂 Repositório: BarberShop - Frontend
+🔹 📂 Repositório: [BarberShop - Frontend](https://github.com/JP-OliveiraDev/Barber-Shop)
 
 **Backend**
 
 🔹 Tecnologias: Java, Spring Boot, PostgreSQL, Flyway, Spring Data JPA
 
-🔹 📂 Repositório: BarberShop - Backend
+🔹 📂 Repositório: [BarberShop - Backend](https://github.com/JP-OliveiraDev/Barber-Shop-Api)
 
 ---
 
@@ -41,7 +41,7 @@ Aqui você encontrará projetos construídos utilizando frameworks como !**Angul
 
 🔹 Tecnologias: Angular, TypeScript, RxJS
 
-🔹 📂 Repositório: QuizzHub
+🔹 📂 Repositório: [QuizzHub](https://github.com/JP-OliveiraDev/QuizzHub)
 
 ---
 
@@ -51,7 +51,7 @@ Aqui você encontrará projetos construídos utilizando frameworks como !**Angul
 
 🔹 Tecnologias: Angular, TypeScript, RxJS
 
-🔹 📂 Repositório: Board
+🔹 📂 Repositório: [Board](https://github.com/JP-OliveiraDev/Board)
 
 ---
 
@@ -61,7 +61,7 @@ Aqui você encontrará projetos construídos utilizando frameworks como !**Angul
 
 🔹 Tecnologias: Java, Spring Boot, Spring Data JPA, PostgreSQL
 
-🔹 📂 Repositório: API REST
+🔹 📂 Repositório: [API REST](https://github.com/JP-OliveiraDev/Decola-Tech-2025)
 
 ---
 
