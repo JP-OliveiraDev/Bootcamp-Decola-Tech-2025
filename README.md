@@ -2,7 +2,7 @@
 
 Bem-vindo ao repositório dos projetos realizados durante o bootcamp **Decola Tech 2025!** Durante este bootcamp, trabalhei em uma série de projetos desafiadores que abrangem diferentes tecnologias e práticas de desenvolvimento, com foco em criar aplicações modernas e interativas. 🚀
 
-Aqui você encontrará projetos construídos utilizando frameworks como **Angular, Spring Boot, Node.js!** e outras tecnologias, criando desde !**aplicações de blog interativas até sistemas completos de agendamento e quizzes.!** Cada projeto inclui funcionalidades específicas e detalhes técnicos sobre como executá-los localmente.
+Aqui você encontrará projetos construídos utilizando frameworks como **Angular, Spring Boot, Node.js!** e outras tecnologias, criando desde **aplicações de blog interativas até sistemas completos de agendamento e quizzes.!** Cada projeto inclui funcionalidades específicas e detalhes técnicos sobre como executá-los localmente.
 
 ## 📌 Projetos
 **Aqui está a lista dos projetos desenvolvidos durante o bootcamp, organizados por tecnologia e funcionalidade.**
