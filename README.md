@@ -135,3 +135,11 @@ Spring Boot: ```http://localhost:8080```
 Contribuições são sempre bem-vindas! Se você tiver sugestões, melhorias ou encontrar bugs, sinta-se à vontade para abrir uma issue ou enviar um pull request. 💡
 
 Se encontrar um erro ou tiver ideias para aprimorar os projetos, ficarei feliz em revisar e melhorar o código com você!
+
+## 📊 Estatísticas do GitHub
+
+<div align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=JP-OliveiraDev&show_icons=true&theme=radical"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JP-OliveiraDev&layout=compact&theme=radical"/>
+</div>
